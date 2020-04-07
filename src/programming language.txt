@@ -1,0 +1,10 @@
+begin
+	num and num2 or num4//this hold any
+	int num2 = 9;
+	bool result := true;
+	if num1 <  num2//this holds alot 9897
+		print true
+	else
+		print false
+	fi
+end//end of program
